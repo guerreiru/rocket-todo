@@ -34,11 +34,11 @@ Utilizar conhecimentos adquiridos no modulo 01
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/guerreiru/rocket-todo.git
+git clone https://github.com/guerreiru/rocketseat-todo.git
 # ou use a opção de download.
 
 # Entre na pasta web com 
-cd rocket-todo
+cd rocketseat-todo
 
 # Instale as dependências
 yarn install
