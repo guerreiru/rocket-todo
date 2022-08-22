@@ -14,7 +14,7 @@ O Rocketseat Todo é uma alternativa simples e eficaz para gerenciar suas tarefa
 
 Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
-- [React](https://reactnative.dev/)
+- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 <br>
