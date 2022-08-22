@@ -26,7 +26,7 @@ Utilizar conhecimentos adquiridos no modulo 01
 - Conceito de Hooks
 - Utilização do debug
 - Componentização
-- Utulização do StyleSheet
+- Utilização do StyleSheet
 
 <br>
 
